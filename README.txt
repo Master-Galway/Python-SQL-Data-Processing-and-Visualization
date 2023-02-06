@@ -1,4 +1,5 @@
-运行环境： Python3
-输入：所有CSV文件放进python ide的work directory。如果不清楚文件夹在哪，程序每次运行都会在console里print work directory。
-输出：console + work direcotry CSV file （named as "Output File 1,2,3..“）
-Adminlist： 在程序内注释的地方手动加入想要移除的用户ID
+Runtime Enviroument： Python3.
+Input：Put all CSV files from database into your pyhton ide's work directory。The program automatically prints your work directory everytime you run it.
+Output：console + work direcotry CSV file （named as "Output File 1,2,3..“).
+Adminlist： At where it's commented, you can mannually add the user ID list that you wish to filter out from the statistic.
+Do not copy without permission.
